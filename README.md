@@ -7,3 +7,6 @@
 
 
 The input data sets are too large so they cannot be uploaded to this repository. I will share you a google drive folder and share access with you. This file names "input.zip" in the folder Final_Submit of Google Drive
+
+
+Please find the python code in the zip files: BERT, BERT_FULL, Blocking, Data Analysis, Gold Standard, intersection, Training
